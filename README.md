@@ -1,6 +1,6 @@
 ## How to use Fluke
 ### Emil
-**word** word 2 __word 3__ a
+**word** word 2 __word 3__ **a**
 __test1__
 
 <https://www.youtube.com/>
