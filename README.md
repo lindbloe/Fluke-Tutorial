@@ -21,22 +21,25 @@ ad
 ### 5. ad
 
 How to use fluke
-Press the green power button to activate the Fluke Cable tester. Press it again to deactivate the Fluke
+![IMG_20230330_144931](https://user-images.githubusercontent.com/129166651/229772422-6db35dc2-d527-42f7-ae5a-070de8c6cbcf.jpg)
+
+1. Press the green power button to activate the Fluke Cable tester. Press it again to deactivate the Fluke
 
 
-The top part of the fluke can be removed and used as a device to test cables 
 
-You can attach the smaller part to the main body with the use of an ethernet cable. This step is required for future testing.
+2. The top part of the fluke can be removed and used as a device to test cables 
 
-By turning the Dial you can choose what you want to do with the Fluke. The most important features are the DISCOVERY and AUTO TEST options.
+3. You can attach the smaller part to the main body with the use of an ethernet cable. This step is required for future testing.
 
-
-When you turn the dial to Auto test, you enter the auto test screen where you can press the ENTER key on the fluke.
+4. By turning the Dial you can choose what you want to do with the Fluke. The most important features are the DISCOVERY and AUTO TEST options.
 
 
-on this screen you get a full list of all specifications that the cable will be tested for.
+5. When you turn the dial to Auto test, you enter the auto test screen where you can press the ENTER key on the fluke.
 
-In the auto test list you can enable and disable the different specifications that will be tested.
+
+6. on this screen you get a full list of all specifications that the cable will be tested for.
+
+7. In the auto test list you can enable and disable the different specifications that will be tested.
 
 
 
