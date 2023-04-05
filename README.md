@@ -51,6 +51,7 @@ https://github.com/lindbloe/Fluke-Tutorial#auto-test
 11. Here you can save your test results and give it a unique site location and outlet number. 
 By pressing the Enter key and movement keys you can edit the Site location and outlet settings.
 
+## Discovery 
 ![IMG_20230330_145025](https://user-images.githubusercontent.com/129166651/230004290-71b4e097-93a8-457c-b026-441f5b31f139.jpg)
 12. Next up is the DISCOVERY option for the fluke. When the cable is attached and you turn on the discovery option. It shows you the length of the cable and a wiring map of the 2 ethernet cable heads. The last line on the graph also show you if the cable is shielded or not. 
 
