@@ -12,6 +12,8 @@ https://github.com/lindbloe/Fluke-Tutorial#auto-test
 [How to use fluke](#how-to-use-fluke)  
 [Auto-test](#auto-test)  
 [Discovery](#discovery)  
+[Results](#results)  
+[Setup](#setup)  
 
 
 
@@ -62,6 +64,7 @@ By pressing the Enter key and movement keys you can edit the Site location and o
 ![IMG_20230403_102049](https://user-images.githubusercontent.com/129166651/230004440-69503e87-a747-4a5d-9c23-6dd752f2a646.jpg)
 14. In this example the vire is only connected on one end of the connector. Can be easily identified and fixed using the fluke.
 
+## Results
 ![IMG_20230330_145138](https://user-images.githubusercontent.com/129166651/230004588-9a1ba5e1-8edb-48c8-add3-57f051fbe2e2.jpg)
 15. If you turn the dial to RESULTS it shows you the results of the saved auto test outcomes.
 
@@ -74,6 +77,8 @@ By pressing the Enter key and movement keys you can edit the Site location and o
 ![IMG_20230404_105522](https://user-images.githubusercontent.com/129166651/230005469-8e922ee0-cf3c-4234-913d-e8190ac7fc27.jpg)
 18. back in the results menu by pressing the F1 key you enter the selected ( 167 ) specific results. you can get further information about the specific qualification by pressing F1 again.
 
+
+## Setup
 ![IMG_20230330_145230](https://user-images.githubusercontent.com/129166651/230005546-dbc67dcd-c552-4365-a373-bab5efd1ed06.jpg)
 19. Now we navigate with the dial to the SETUP sektion.
 
