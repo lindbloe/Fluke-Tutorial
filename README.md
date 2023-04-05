@@ -10,7 +10,7 @@ https://github.com/lindbloe/Fluke-Tutorial#auto-test
 
 ##### Table of Contents  
 [Auto-test](#auto-test)  
-[Emphasis](#emphasis)  
+[Discovery](#discovery)  
 
 
 
