@@ -10,8 +10,8 @@ __test1__
 [Auto test](#Auto test)  
 [Emphasis](#emphasis)  
 ...snip...    
-<a name="headers"/>
-## Headers
+<a name="Auto test"/>
+## Auto test
 
 
 ## How to use fluke
