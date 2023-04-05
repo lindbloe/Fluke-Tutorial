@@ -1,6 +1,5 @@
 # Fluke Tutorial
 
-https://github.com/lindbloe/Fluke-Tutorial#auto-test
 
 ##### Table of Contents 
 [How to use fluke](#how-to-use-fluke)  
@@ -110,5 +109,13 @@ By pressing the Enter key and movement keys you can edit the Site location and o
 
 
 
+
+
+
+
+
+
+
+https://github.com/lindbloe/Fluke-Tutorial#auto-test
 
 
