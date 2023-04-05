@@ -6,12 +6,7 @@ __test1__
 <https://www.youtube.com/>
 ### 1. Press the green power button to activate the Fluke Cable tester. **word** word 2 __word__3__ 
 
-##### Table of Contents  
-[Auto test](#Auto test)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="Auto test"/>
-## Auto test
+
 
 ##### Table of Contents  
 [Headers](#headers)  
@@ -33,10 +28,10 @@ __test1__
 
 ## Auto test
 ![IMG_20230330_145035](https://user-images.githubusercontent.com/129166651/230000737-f5c1cb84-0e21-4958-93c9-06445b3c0cf6.jpg)
-4. By turning the Dial you can choose what you want to do with the Fluke. The most important features are the DISCOVERY and AUTO TEST options.
+### 4. By turning the Dial you can choose what you want to do with the Fluke. The most important features are the DISCOVERY and AUTO TEST options.
 
 ![IMG_20230403_111702](https://user-images.githubusercontent.com/129166651/230001289-0d77ac22-2946-476a-bfad-48b044298313.jpg)
-5. When you turn the dial to Auto test, you enter the auto test screen where you can press the ENTER key on the fluke.
+### 5. When you turn the dial to Auto test, you enter the auto test screen where you can press the ENTER key on the fluke.
 
 ![IMG_20230403_125656](https://user-images.githubusercontent.com/129166651/230002933-69a3ee80-5b2a-436b-a8ef-3bb01e6e21d9.jpg)
 6. on this screen you get a full list of all specifications that the cable will be tested for.
