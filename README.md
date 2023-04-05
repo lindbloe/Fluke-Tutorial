@@ -1,10 +1,4 @@
-## How to use Fluke
-### Emil
-**word** word 2 __word 3__ 
-__test1__
-<https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
-<https://www.youtube.com/>
-### 1. Press the green power button to activate the Fluke Cable tester. **word** word 2 __word__3__ 
+# Fluke Tutorial
 
 https://github.com/lindbloe/Fluke-Tutorial#auto-test
 
