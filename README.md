@@ -15,7 +15,7 @@ ad
 # How to use fluke
 
 ![IMG_20230330_144931](https://user-images.githubusercontent.com/129166651/229772422-6db35dc2-d527-42f7-ae5a-070de8c6cbcf.jpg)
-1. Press the green power button to activate the Fluke Cable tester. Press it again to deactivate the Fluke
+## 1. Press the green power button to activate the Fluke Cable tester. Press it again to deactivate the Fluke
 
 ![IMG_20230330_144955](https://user-images.githubusercontent.com/129166651/230000318-017cbcd4-7cc5-4069-90c8-e2df85e9e756.jpg)
 2. The top part of the fluke can be removed and used as a device to test cables 
