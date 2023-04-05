@@ -8,7 +8,8 @@ __test1__
 
 https://github.com/lindbloe/Fluke-Tutorial#auto-test
 
-##### Table of Contents  
+##### Table of Contents 
+[How to use fluke](#how-to-use-fluke)  
 [Auto-test](#auto-test)  
 [Discovery](#discovery)  
 
