@@ -17,7 +17,7 @@ __test1__
 [Headers](#headers)  
 [Emphasis](#emphasis)  
 ...snip...    
-<a name="headers"/>
+<a name="Auto test"/>
 
 
 ## How to use fluke
