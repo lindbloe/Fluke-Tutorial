@@ -13,6 +13,12 @@ __test1__
 <a name="Auto test"/>
 ## Auto test
 
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Auto test
 
 ## How to use fluke
 
