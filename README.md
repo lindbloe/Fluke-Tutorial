@@ -11,8 +11,7 @@ https://github.com/lindbloe/Fluke-Tutorial#auto-test
 ##### Table of Contents  
 [Auto-test](#auto-test)  
 [Emphasis](#emphasis)  
-...snip...    
-<a name="Auto test"/>
+
 
 
 ## How to use fluke
