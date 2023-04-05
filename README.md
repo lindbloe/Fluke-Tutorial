@@ -9,7 +9,7 @@ __test1__
 https://github.com/lindbloe/Fluke-Tutorial#auto-test
 
 ##### Table of Contents  
-[MEMEIL](#auto-test)  
+[Auto-test](#auto-test)  
 [Emphasis](#emphasis)  
 ...snip...    
 <a name="Auto test"/>
