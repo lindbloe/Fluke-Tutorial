@@ -6,10 +6,10 @@ __test1__
 <https://www.youtube.com/>
 ### 1. Press the green power button to activate the Fluke Cable tester. **word** word 2 __word__3__ 
 
-
+https://github.com/lindbloe/Fluke-Tutorial#auto-test
 
 ##### Table of Contents  
-[Headers](#headers)  
+[MEMEIL](#auto-test)  
 [Emphasis](#emphasis)  
 ...snip...    
 <a name="Auto test"/>
