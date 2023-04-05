@@ -5,12 +5,8 @@ __test1__
 <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
 <https://www.youtube.com/>
 ### 1. Press the green power button to activate the Fluke Cable tester. **word** word 2 __word__3__ 
-### 2. swa
-The top part of the fluke can be removed and used as a device to test cables
-### 3. ad
-ad
-### 4. ad
-### 5. ad
+
+
 
 # How to use fluke
 
