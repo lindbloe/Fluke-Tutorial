@@ -14,7 +14,7 @@ https://github.com/lindbloe/Fluke-Tutorial#auto-test
 [Discovery](#discovery)  
 [Results](#results)  
 [Setup](#setup)   
-[How to use fluke Youtube](#How-to-use-fluke-youtube-tutorial)  
+[How to use fluke Youtube](#how-to-use-fluke-youtube-tutorial)  
 
 
 ## How to use fluke
