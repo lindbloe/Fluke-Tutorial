@@ -13,7 +13,7 @@ https://github.com/lindbloe/Fluke-Tutorial#auto-test
 [Auto-test](#auto-test)  
 [Discovery](#discovery)  
 [Results](#results)  
-[Set](#setup)  
+[Setup](#setup)  
 [How to YouTube tutorial](#How-to-use-fluke-youtube-tutorial)  
 
 
