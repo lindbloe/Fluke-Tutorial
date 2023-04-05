@@ -7,24 +7,25 @@ __test1__
 ### 1. Press the green power button to activate the Fluke Cable tester. **word** word 2 __word__3__ 
 
 ##### Table of Contents  
-[Headers](#headers)  
+[Auto test](#Auto test)  
 [Emphasis](#emphasis)  
 ...snip...    
 <a name="headers"/>
 ## Headers
 
 
-# How to use fluke
+## How to use fluke
 
 ![IMG_20230330_144931](https://user-images.githubusercontent.com/129166651/229772422-6db35dc2-d527-42f7-ae5a-070de8c6cbcf.jpg)
-## 1. Press the green power button to activate the Fluke Cable tester. Press it again to deactivate the Fluke
+### 1. Press the green power button to activate the Fluke Cable tester. Press it again to deactivate the Fluke
 
 ![IMG_20230330_144955](https://user-images.githubusercontent.com/129166651/230000318-017cbcd4-7cc5-4069-90c8-e2df85e9e756.jpg)
-2. The top part of the fluke can be removed and used as a device to test cables 
+### 2. The top part of the fluke can be removed and used as a device to test cables 
 
 ![IMG_20230330_144955](https://user-images.githubusercontent.com/129166651/230000610-f90b67c6-4248-4ab9-b712-f086efd63681.jpg)
 3. You can attach the smaller part to the main body with the use of an ethernet cable. This step is required for future testing.
 
+## Auto test
 ![IMG_20230330_145035](https://user-images.githubusercontent.com/129166651/230000737-f5c1cb84-0e21-4958-93c9-06445b3c0cf6.jpg)
 4. By turning the Dial you can choose what you want to do with the Fluke. The most important features are the DISCOVERY and AUTO TEST options.
 
